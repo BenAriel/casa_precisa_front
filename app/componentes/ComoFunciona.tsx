@@ -12,7 +12,7 @@ export default function ComoFunciona() {
                 <div className="flex flex-col items-center">
                     <div className="rounded-full w-40 h-40 overflow-hidden mb-4 shadow-xl border-8 border-white">
                         <Image 
-                            src="/preco_casa_front/casa_precisa_front/imagens/ComoFunciona1.jpg" 
+                            src="/imagens/ComoFunciona1.jpg" 
                             alt="Inserir dados" 
                             width={160} // Valor aproximado da largura
                             height={160} // Valor aproximado da altura
@@ -27,7 +27,7 @@ export default function ComoFunciona() {
                 <div className="flex flex-col items-center">
                     <div className="rounded-full w-40 h-40 overflow-hidden mb-4 shadow-xl border-8 border-white">
                         <Image 
-                            src="/preco_casa_front/casa_precisa_front/imagens/ComoFunciona2.png" 
+                            src="/imagens/ComoFunciona2.png" 
                             alt="Clique em calcular" 
                             width={160} // Valor aproximado da largura
                             height={160} // Valor aproximado da altura
@@ -42,7 +42,7 @@ export default function ComoFunciona() {
                 <div className="flex flex-col items-center">
                     <div className="rounded-full w-40 h-40 overflow-hidden mb-4 shadow-xl border-8 border-white">
                         <Image 
-                            src="/preco_casa_front/casa_precisa_front/imagens/ComoFunciona3.jpg" 
+                            src="casa_precisa_front/imagens/ComoFunciona3.jpg" 
                             alt="Veja o valor da casa" 
                             width={160} // Valor aproximado da largura
                             height={160} // Valor aproximado da altura
