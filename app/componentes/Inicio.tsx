@@ -1,5 +1,4 @@
 import Image from 'next/image';
-import imagemIncio from '/public/imagens/img1.png';
 
 export default function Inicio() {  
     return (
