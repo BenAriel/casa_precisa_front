@@ -11,7 +11,6 @@ export default function Inicio() {
                     height={600} // Valor placeholder para a altura
                     className="w-full h-[80%] object-cover" 
                     style={{ width: '100%', height: '80%' }} // Mantém o comportamento CSS
-                    unoptimized
                 />
             </div>
 
