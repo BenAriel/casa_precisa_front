@@ -5,7 +5,7 @@ export default function Inicio() {
         <div className="grid grid-cols-1 md:grid-cols-2 h-screen bg-blue-500 text-white">
             <div className="flex justify-center items-center">
                 <Image 
-                    src="casa_precisa_front/imagens/img1.png" 
+                    src="/imagens/img1.png" 
                     alt="Imagem da Casa" 
                     width={800} // Valor placeholder para a largura
                     height={600} // Valor placeholder para a altura
