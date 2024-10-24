@@ -89,7 +89,7 @@ export default function Home() {
         console.log("Buscando CEP:", cepNumerico);
         const response = await axios.get(`https://viacep.com.br/ws/${cepNumerico}/json/`);
         console.log("Dados do CEP:", response.data);
-        console.log("Bairro:", response.data.bairro);
+        console.log("BAIRRO:", response.data.bairro);
 
         const bairroApi = response.data.bairro;
         console.log("Bairro encontrado:", bairroApi);
